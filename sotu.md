@@ -529,8 +529,17 @@ for machine learning. Sparkle itself is fairly new.
 
 * [Github repository for `Sparkle`](https://github.com/tweag/sparkle)
 
+Grzegorz Chrupala has released many 
+[ML libraries](https://hackage.haskell.org/user/GrzegorzChrupala), in
+particular for natural language processing.
+
 **Notable libraries:**
 * [`HLearn-*`](https://hackage.haskell.org/packages/search?terms=HLearn)
+* [`hiera`](https://bitbucket.org/gchrupala/hiera) - Agglomerative/hierarchical word class clustering 
+* [`morfette`](https://hackage.haskell.org/package/morfette) - Supervised learning of inflectional morphology 
+* [`sequor`](https://hackage.haskell.org/package/sequor) - Sequence labeler based on Collins's sequence perceptron
+* [`progressive`](https://hackage.haskell.org/package/progressive) - Multilabel classification model which learns sequentially (online) 
+
 
 <br>
 
@@ -1194,6 +1203,7 @@ pretty good and diverse enough to cover the majority of use cases.
 * [`unordered-containers`](https://hackage.haskell.org/package/unordered-containers) - High-performance `HashMap`s, HashSets
 * [`accelerate`](https://hackage.haskell.org/package/accelerate) / [`accelerate-*`](https://hackage.haskell.org/packages/search?terms=accelerate) - GPU programming
 * [`repa`](https://hackage.haskell.org/package/repa) / [`repa-*`](https://hackage.haskell.org/packages/search?terms=repa) - parallel shape-polymorphic arrays
+* [`bytestring-trie`](https://github.com/wrengr/bytestring-trie) - Compact key-value storage, especially where keys share prefixes
 
 <br>
 
